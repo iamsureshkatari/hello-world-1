@@ -11,3 +11,6 @@
 <h2> .kjrthvskdgnsgnklh gnt </h2>
 
 <h2> End of ansible automation </h2>
+
+<h3>curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl
+</h3>
